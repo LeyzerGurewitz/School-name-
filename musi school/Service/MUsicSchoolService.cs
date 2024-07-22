@@ -13,6 +13,10 @@ namespace musi_school.Service
 {
     internal static class MUsicSchoolService
     {
+        public static void Leyzer()
+        {
+            Console.WriteLine("hhhhh");
+        }
         public static void CreateXMLIfNotExists()
         {
             // אם הוא לא קיים

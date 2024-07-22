@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("musi school")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddef16461fe60c752992b6dea99ce8278df5a990")]
 [assembly: System.Reflection.AssemblyProductAttribute("musi school")]
 [assembly: System.Reflection.AssemblyTitleAttribute("musi school")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
