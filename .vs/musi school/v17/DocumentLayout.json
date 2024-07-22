@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\musi school\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB64370-1650-4E5D-949C-57DD8972773E}|musi school\\musi school.csproj|c:\\users\\leyze\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\c#\\musi school\\musi school\\service\\musicschoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB64370-1650-4E5D-949C-57DD8972773E}|musi school\\musi school.csproj|solutionrelative:musi school\\service\\musicschoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB64370-1650-4E5D-949C-57DD8972773E}|musi school\\musi school.csproj|c:\\users\\leyze\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\c#\\musi school\\musi school\\model\\teachermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB64370-1650-4E5D-949C-57DD8972773E}|musi school\\musi school.csproj|solutionrelative:musi school\\model\\teachermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB64370-1650-4E5D-949C-57DD8972773E}|musi school\\musi school.csproj|c:\\users\\leyze\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\c#\\musi school\\musi school\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB64370-1650-4E5D-949C-57DD8972773E}|musi school\\musi school.csproj|solutionrelative:musi school\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB64370-1650-4E5D-949C-57DD8972773E}|musi school\\musi school.csproj|c:\\users\\leyze\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\c#\\musi school\\musi school\\configuration\\musicschoolcofiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB64370-1650-4E5D-949C-57DD8972773E}|musi school\\musi school.csproj|solutionrelative:musi school\\configuration\\musicschoolcofiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB64370-1650-4E5D-949C-57DD8972773E}|musi school\\musi school.csproj|c:\\users\\leyze\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\c#\\musi school\\musi school\\model\\instrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB64370-1650-4E5D-949C-57DD8972773E}|musi school\\musi school.csproj|solutionrelative:musi school\\model\\instrument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB64370-1650-4E5D-949C-57DD8972773E}|musi school\\musi school.csproj|c:\\users\\leyze\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\c#\\musi school\\musi school\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBB64370-1650-4E5D-949C-57DD8972773E}|musi school\\musi school.csproj|solutionrelative:musi school\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB64370-1650-4E5D-949C-57DD8972773E}|musi school\\musi school.csproj|c:\\users\\leyze\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\c#\\musi school\\musi school\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB64370-1650-4E5D-949C-57DD8972773E}|musi school\\musi school.csproj|solutionrelative:musi school\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB64370-1650-4E5D-949C-57DD8972773E}|musi school\\musi school.csproj|c:\\users\\leyze\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\c#\\musi school\\musi school\\musi school.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DBB64370-1650-4E5D-949C-57DD8972773E}|musi school\\musi school.csproj|solutionrelative:musi school\\musi school.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB64370-1650-4E5D-949C-57DD8972773E}|musi school\\musi school.csproj|c:\\users\\leyze\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\c#\\musi school\\musi school\\service\\prsactice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB64370-1650-4E5D-949C-57DD8972773E}|musi school\\musi school.csproj|solutionrelative:musi school\\service\\prsactice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 176,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Instrument.cs",
+              "DocumentMoniker": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\musi school\\musi school\\Model\\Instrument.cs",
+              "RelativeDocumentMoniker": "musi school\\Model\\Instrument.cs",
+              "ToolTip": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\musi school\\musi school\\Model\\Instrument.cs",
+              "RelativeToolTip": "musi school\\Model\\Instrument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:03:58.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\musi school\\musi school\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "musi school\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\musi school\\musi school\\Model\\Student.cs",
+              "RelativeToolTip": "musi school\\Model\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T11:03:21.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MusicSchoolCofiguration.cs",
+              "DocumentMoniker": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\musi school\\musi school\\Configuration\\MusicSchoolCofiguration.cs",
+              "RelativeDocumentMoniker": "musi school\\Configuration\\MusicSchoolCofiguration.cs",
+              "ToolTip": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\musi school\\musi school\\Configuration\\MusicSchoolCofiguration.cs",
+              "RelativeToolTip": "musi school\\Configuration\\MusicSchoolCofiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:27:04.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "musi school",
+              "DocumentMoniker": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\musi school\\musi school\\musi school.csproj",
+              "RelativeDocumentMoniker": "musi school\\musi school.csproj",
+              "ToolTip": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\musi school\\musi school\\musi school.csproj",
+              "RelativeToolTip": "musi school\\musi school.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T08:48:26.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\musi school\\musi school\\Form1.cs",
+              "RelativeDocumentMoniker": "musi school\\Form1.cs",
+              "ToolTip": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\musi school\\musi school\\Form1.cs",
+              "RelativeToolTip": "musi school\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:45:37.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MUsicSchoolService.cs",
+              "DocumentMoniker": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\musi school\\musi school\\Service\\MUsicSchoolService.cs",
+              "RelativeDocumentMoniker": "musi school\\Service\\MUsicSchoolService.cs",
+              "ToolTip": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\musi school\\musi school\\Service\\MUsicSchoolService.cs",
+              "RelativeToolTip": "musi school\\Service\\MUsicSchoolService.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAcwHsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T08:31:58.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Prsactice.cs",
+              "DocumentMoniker": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\musi school\\musi school\\Service\\Prsactice.cs",
+              "RelativeDocumentMoniker": "musi school\\Service\\Prsactice.cs",
+              "ToolTip": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\musi school\\musi school\\Service\\Prsactice.cs",
+              "RelativeToolTip": "musi school\\Service\\Prsactice.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAwEcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:17:02.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\musi school\\musi school\\Form1.cs",
+              "RelativeDocumentMoniker": "musi school\\Form1.cs",
+              "ToolTip": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\musi school\\musi school\\Form1.cs [Design]",
+              "RelativeToolTip": "musi school\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T06:15:46.065Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherModel.cs",
+              "DocumentMoniker": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\musi school\\musi school\\Model\\TeacherModel.cs",
+              "RelativeDocumentMoniker": "musi school\\Model\\TeacherModel.cs",
+              "ToolTip": "C:\\Users\\leyze\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\\u05E2\u05D1\u05D5\u05D3\u05D5\u05EA \u05E7\u05D5\u05D3\u05E7\u05D5\u05D3 \u05DB\u05D9\u05EA\u05D4\\C#\\musi school\\musi school\\Model\\TeacherModel.cs",
+              "RelativeToolTip": "musi school\\Model\\TeacherModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T12:00:39.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

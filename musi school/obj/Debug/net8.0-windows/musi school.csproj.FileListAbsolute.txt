@@ -1,0 +1,16 @@
+C:\Users\leyze\OneDrive\שולחן העבודה\עבודות קודקוד כיתה\C#\musi school\musi school\bin\Debug\net8.0-windows\musi school.exe
+C:\Users\leyze\OneDrive\שולחן העבודה\עבודות קודקוד כיתה\C#\musi school\musi school\bin\Debug\net8.0-windows\musi school.deps.json
+C:\Users\leyze\OneDrive\שולחן העבודה\עבודות קודקוד כיתה\C#\musi school\musi school\bin\Debug\net8.0-windows\musi school.runtimeconfig.json
+C:\Users\leyze\OneDrive\שולחן העבודה\עבודות קודקוד כיתה\C#\musi school\musi school\bin\Debug\net8.0-windows\musi school.dll
+C:\Users\leyze\OneDrive\שולחן העבודה\עבודות קודקוד כיתה\C#\musi school\musi school\bin\Debug\net8.0-windows\musi school.pdb
+C:\Users\leyze\OneDrive\שולחן העבודה\עבודות קודקוד כיתה\C#\musi school\musi school\obj\Debug\net8.0-windows\musi_school.Form1.resources
+C:\Users\leyze\OneDrive\שולחן העבודה\עבודות קודקוד כיתה\C#\musi school\musi school\obj\Debug\net8.0-windows\musi school.csproj.GenerateResource.cache
+C:\Users\leyze\OneDrive\שולחן העבודה\עבודות קודקוד כיתה\C#\musi school\musi school\obj\Debug\net8.0-windows\musi school.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leyze\OneDrive\שולחן העבודה\עבודות קודקוד כיתה\C#\musi school\musi school\obj\Debug\net8.0-windows\musi school.AssemblyInfoInputs.cache
+C:\Users\leyze\OneDrive\שולחן העבודה\עבודות קודקוד כיתה\C#\musi school\musi school\obj\Debug\net8.0-windows\musi school.AssemblyInfo.cs
+C:\Users\leyze\OneDrive\שולחן העבודה\עבודות קודקוד כיתה\C#\musi school\musi school\obj\Debug\net8.0-windows\musi school.csproj.CoreCompileInputs.cache
+C:\Users\leyze\OneDrive\שולחן העבודה\עבודות קודקוד כיתה\C#\musi school\musi school\obj\Debug\net8.0-windows\musi school.dll
+C:\Users\leyze\OneDrive\שולחן העבודה\עבודות קודקוד כיתה\C#\musi school\musi school\obj\Debug\net8.0-windows\refint\musi school.dll
+C:\Users\leyze\OneDrive\שולחן העבודה\עבודות קודקוד כיתה\C#\musi school\musi school\obj\Debug\net8.0-windows\musi school.pdb
+C:\Users\leyze\OneDrive\שולחן העבודה\עבודות קודקוד כיתה\C#\musi school\musi school\obj\Debug\net8.0-windows\musi school.genruntimeconfig.cache
+C:\Users\leyze\OneDrive\שולחן העבודה\עבודות קודקוד כיתה\C#\musi school\musi school\obj\Debug\net8.0-windows\ref\musi school.dll

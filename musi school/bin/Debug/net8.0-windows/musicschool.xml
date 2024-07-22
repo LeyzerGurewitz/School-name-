@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<music_school>
+  <class_room name="guitar">
+    <teacher-name name="yoosi levi" />
+    <student-name name="leyzer">
+      <instument>guitar</instument>
+    </student-name>
+  </class_room>
+</music_school>
